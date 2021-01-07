@@ -1,1 +1,1 @@
-# Progress-stepsJS
+Progress Steps mini project
