@@ -1,6 +1,5 @@
 const  previousBtn  =  document.getElementById('previousBtn');
 const  nextBtn  =  document.getElementById('nextBtn');
-
 const  content  =  document.getElementById('content');
 const  bullets  =  [...document.querySelectorAll('.bullet')];
 
